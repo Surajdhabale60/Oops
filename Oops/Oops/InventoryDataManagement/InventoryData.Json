@@ -1,0 +1,39 @@
+{
+    "Rice": [
+        {
+            "Name": "Brown",
+            "Weight": 10,
+            "Price": 50
+        },
+        {
+            "Name": "Mogra",
+            "Weight": 40,
+            "Price": 100
+        }
+    ],
+    "Wheat": [
+        {
+            "Name": "Lokwan",
+            "Weight": 50,
+            "Price": 200
+        },
+        {
+            "Name": "sharbati",
+            "Weight": 60,
+            "Price": 300
+        }
+    ],
+    "Pulse": [
+        {
+            "Name": "Pulse",
+            "Weight": 70,
+            "Price": 400
+        },
+        {
+            "Name": "Pulse2",
+            "Weight": 50,
+            "Price": 500
+        }
+    ]
+
+}
